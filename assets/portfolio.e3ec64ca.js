@@ -1,1 +1,0 @@
-import{a as o,C as t,b as s,c as r,l as a,v as c,g as l}from"./vendor.7fb21631.js";const n={class:"flex-1 flex flex-col border-r border-neutral-925"},d={class:"flex-1 bg-neutral-900"},u=o({setup(f){return t({title:"Portfolio | Jeff Schofield"}),(i,_)=>{const e=s("RouterView");return r(),a("div",n,[c("div",d,[l(e)])])}}});export{u as default};
