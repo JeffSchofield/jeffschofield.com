@@ -1,0 +1,1 @@
+import{e as o,o as e,c as s,a as t,h as a}from"./index.1f827cfa.js";var n="/assets/logo.1021709d.svg";const c={class:"aspect-[1.63/1]"},l={viewBox:"0 0 512 312",class:"w-full h-full fill-current"},r=["xlink:href"],g=o({__name:"SvgLogo",setup(_){return(i,f)=>(e(),s("div",c,[(e(),s("svg",l,[t("use",{"xlink:href":`${a(n)}#logo`},null,8,r)]))]))}});export{g as _};
