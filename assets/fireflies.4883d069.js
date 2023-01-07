@@ -1,0 +1,1 @@
+import{_ as e}from"./Fireflies.2f553399.js";import{e as o,o as s,i as t}from"./index.7fdbdf08.js";import"./utils.241884e9.js";const a={layout:"fullscreen"},l=o({...a,__name:"fireflies",setup(_){return(r,n)=>(s(),t(e,{class:"absolute inset-0"}))}});export{l as default};

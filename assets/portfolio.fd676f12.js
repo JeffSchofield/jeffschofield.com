@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as s,a as c,b as r,r as a}from"./index.7fdbdf08.js";const n={},_={class:"flex-1 flex flex-col"},l={class:"flex-1"};function f(i,d){const e=a("RouterView");return t(),s("div",_,[c("div",l,[r(e)])])}var x=o(n,[["render",f]]);export{x as default};
