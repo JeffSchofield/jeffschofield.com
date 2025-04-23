@@ -1,0 +1,1 @@
+import{_ as e}from"./Fireflies.vue_vue_type_script_setup_true_lang-CbP8tAgG.js";import{p as o,v as s,o as t}from"./index-DI6HcPBj.js";import"./utils-6o34RcNm.js";const a={layout:"fullscreen"},p=o({...a,__name:"fireflies",setup(_){return(r,n)=>(t(),s(e,{class:"absolute inset-0"}))}});export{p as default};
