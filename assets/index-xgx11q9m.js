@@ -1,1 +1,0 @@
-import{u as t}from"./vue.-sixQ7xP-CPOqk2kf.js";import{c as o,o as a}from"./index-DI6HcPBj.js";const s={class:"markdown-body"},f=[],i={__name:"index",setup(r,{expose:e}){return e({frontmatter:{meta:[]}}),t({meta:[]}),(m,_)=>(a(),o("div",s))}};export{i as default,f as meta};
