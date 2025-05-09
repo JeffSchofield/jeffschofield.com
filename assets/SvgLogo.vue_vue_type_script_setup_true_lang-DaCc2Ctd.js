@@ -1,0 +1,1 @@
+import{p as e,c as o,o as s,a as n,x as t}from"./index-RO_jvqb9.js";const a="/assets/logo-DqaGDP7M.svg?no-inline",c={viewBox:"0 0 512 312",width:"512",height:"312",class:"fill-current"},r=["xlink:href"],h=e({__name:"SvgLogo",setup(i){return(l,_)=>(s(),o("svg",c,[n("use",{"xlink:href":`${t(a)}#logo`},null,8,r)]))}});export{h as _};
